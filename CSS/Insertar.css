@@ -1,0 +1,10 @@
+.nav{
+    background-color: rgb(17, 238, 80);
+}
+.nav-item{
+    font-style: italic;
+    text-decoration: chocolate;
+}
+.dropdown{
+    transition: step-start;
+}
